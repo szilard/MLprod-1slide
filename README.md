@@ -2,7 +2,7 @@
 Machine Learning in Production in 1 Slide
 =======================
 
-![](MLprod_1slide.png)
+![](MLprod-1slide.png)
 
 -------------------------------------
 
